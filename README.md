@@ -17,6 +17,8 @@ A responsive **FOOD-RECIPE-APP** built with **HTML**, **CSS**, and **JavaScript*
 ---
 
 ## 🎯 Project Purpose
+ This project was created to build a real-world food recipe 
+application by practicing the following concepts:
 
 - 🌐 Fetching data from a real API (TheMealDB API)
 - 🖼️ Dynamically rendering food images and details
