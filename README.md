@@ -16,6 +16,14 @@ A responsive **FOOD-RECIPE-APP** built with **HTML**, **CSS**, and **JavaScript*
 
 ---
 
+## 🎯 Project Purpose
+
+- 🌐 Fetching data from a real API (TheMealDB API)
+- 🖼️ Dynamically rendering food images and details
+- 📋 Displaying structured cooking instructions
+- 🥗 Parsing and listing ingredients with measurements
+- 📱 Building a fully responsive UI
+
 ## 🛠️ Technologies Used
 
 - **HTML5** – Structure and markup
