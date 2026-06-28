@@ -27,6 +27,6 @@ A responsive **FOOD-RECIPE-APP** built with **HTML**, **CSS**, and **JavaScript*
 
 ## 🌐 Live Demo
 
-👉 **[Click here to view the app](https://your-username.github.io/recipe-finder-app/)**
+👉 **[Click here to view the app](https://srajan1818.github.io/FOOD_RECIPE_APP/)**
 
 ---
